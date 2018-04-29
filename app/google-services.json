@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "66739248341",
+    "firebase_url": "https://cavetracker-28865.firebaseio.com",
+    "project_id": "cavetracker-28865",
+    "storage_bucket": "cavetracker-28865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66739248341:android:39186bade37b5d6a",
+        "android_client_info": {
+          "package_name": "com.elijahbosley.cavetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66739248341-7vhsa1j80nomomse9qkjivmclaiakm80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu9RHWtf6ms9UfWotjRmJfqAzAbgAk0ao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
